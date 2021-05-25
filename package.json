@@ -1,0 +1,20 @@
+{
+  "name": "node-mongoose",
+  "version": "1.0.0",
+  "description": "Mongoose node server example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LautaroAguero/node-mongoose.git"
+  },
+  "author": "Aguero Lautaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LautaroAguero/node-mongoose/issues"
+  },
+  "homepage": "https://github.com/LautaroAguero/node-mongoose#readme"
+}
